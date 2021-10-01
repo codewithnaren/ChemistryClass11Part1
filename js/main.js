@@ -1,4 +1,4 @@
-const url = 'https://codewithnaren.github.io/socialandpoliticallife1/Polity6.pdf';
+const url = 'https://codewithnaren.github.io/ChemistryClass11Part1/ChemistryClass11Part1.pdf';
 
 
 let pdfDoc = null,
